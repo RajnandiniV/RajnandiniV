@@ -1,37 +1,27 @@
 # Hi, I'm Rajnandini Verma 👋
 
-🎓 B.Tech CSE Student at UEM Kolkata
+🎓 B.Tech CSE Student at the Institute of Engineering & Management,Newtown,Kolkata
 
-💻 Skills
-- Java
-- Python
-- JavaScript
-- React
+💻 Interested in Full-Stack Development, Artificial Intelligence, and Software Engineering.
 
-🚀 Projects
-- Differential Reasoning Based Explainable Chest X-Ray Diagnosis
-- Quotes Generator
-- Bankist Web
+## 🛠️ Tech Stack
 
-🌱 Currently Learning
-- DSA in Java
-- React
-- Node.js
+Java • Python • JavaScript • React • Supabase • PostgreSQL • Git
 
-📫 Connect with me
-- GitHub: https://github.com/RajnandiniV
+## 🚀 Projects
 
-<!--
-**RajnandiniV/RajnandiniV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🪞 **Mirror** – AI-powered future-self platform for conversations, memories, and goal tracking.
+* 🩺 **Explainable Medical X-Ray Classification System** – Deep learning-based chest X-ray diagnosis with explainable AI.
+* 💬 **Quotes Generator**
+* 💳 **Bankist Web**
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Structures & Algorithms in Java
+* Backend Development
+* System Design Fundamentals
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/RajnandiniV
+* LinkedIn: https://www.linkedin.com/in/rajnandini-verma-600836315
